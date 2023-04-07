@@ -12,8 +12,6 @@ class Window(tk.Tk):
 
     def radioButtonEventOfMedianFrame(self,radioButtonValue):
         print(radioButtonValue)
-
-        
         
 
 def main():
